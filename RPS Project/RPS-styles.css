@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+.RPS{
+    font-size: 32px;
+    font-weight: 900;
+    background-color: rgb(7, 7, 71);
+    color:whitesmoke;
+    margin-top: 0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    margin-bottom: 70px;
+    
+}
+.buttons{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid rebeccapurple;
+    margin: 15px 8px;
+    cursor: pointer;
+    background-color: rgb(217, 235, 250);
+}
+.Rock-picture, .Paper-picture, .Scissors-picture{
+    height: 75px;
+
+}
+.Paper-picture{
+    padding-left: 5px;
+}
+.Score-display{
+    margin: 10px;
+    padding: 6px;
+    font-size: 18px;
+    font-weight: 600;
+    white-space: pre;
+}
+.Reset-btn, .autoplay-btn{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: 13px;
+}
