@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: white;
+}
+.google {
+    font-family: Arial;
+    font-size: 90px;
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+img{
+    vertical-align: bottom;
+}
+
+.search-bar {
+    text-align: center;
+}
+
+input {
+    font-size: 1rem;
+    margin: 15px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 16px;
+    padding-left: 16px;
+    width: 500px;
+    border: none;
+    border-radius: 18px;
+    box-shadow: 0px 8px 8px rgb(174, 151, 151);
+}
+.buttons{
+    text-align: center;
+}
+button{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 15px;
+    border: none;
+}
+
